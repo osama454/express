@@ -1,0 +1,11 @@
+Test case 1. passed
+Test case 2. passed
+Test case 3. passed
+Test case 4. passed
+Test case 5. passed
+
+Test case 1. Extracting the MongoDB connection logic into a separate function and improving error handling.
+Test case 2. Move socket logic into separate functions for better organization and testability.
+Test case 3. Remove redundant checks and handle the notifications array efficiently.
+Test case 4. Use async/await consistently instead of mixing .then() and .catch().
+Test case 5. Separate out core logic into smaller utility functions.
